@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christian Portella
 - 👀 I’m interested in projects around the world, specially in the U.S or Europe
 - 🌱 I’m currently learning about Scrum Master
-- 💞️ I’m looking to collaborate on companies related to construction, architecture, telecomunications and others
+- 💞️ I’m looking to collaborate on companies related to construction, architecture, Technology, telecommunications and others
 - 📫 reach me at:  linkedin.com/in/christian-portella-sanchez
 
 <!---
